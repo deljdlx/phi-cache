@@ -1,0 +1,14 @@
+{
+	"name": "phi-cache",
+	"description": "Phi cache",
+
+
+	"autoload": {
+		"psr-4": {
+			"Phi\\Cache\\": "source"
+		},
+		"files": [
+
+		]
+	}
+}
